@@ -4,9 +4,9 @@
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=nethna-oshad&label=Profile%20views&color=0e75b6&style=flat" alt="nethna-oshad" /> </p>
 
 <hr>
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **javaScript**
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **javaScript**
 
 - 📫 How to reach me **nethna2001oshad@gmail.com**
 
