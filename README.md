@@ -5,9 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7E95FD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Full+Stack+Developer;Currently+Learning+AI+and+Kotlin" alt="Typing SVG" />
 </p>
 
----
-<h1 align="center">Hi 👋, I'm Nethna Oshad</h1>
-<h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
+
 
 - 🌱 I’m currently learning **Next.js**
 
